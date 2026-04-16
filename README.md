@@ -1,9 +1,9 @@
 🛒 Walmart Store Sales Analysis  
 📊 Turning Raw Data into Business Insights
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ashish0103/Walmart-Sales-Analysis)
-![GitHub stars](https://img.shields.io/github/stars/ashish0103/Walmart-Sales-Analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ashish0103/Walmart-Sales-Analysis?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ashish0103-web/Walmart-Sales-analysis)
+![GitHub stars](https://img.shields.io/github/stars/ashish0103-web/Walmart-Sales-analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ashish0103-web/Walmart-Sales-analysis?style=social)
 
 ---
 
